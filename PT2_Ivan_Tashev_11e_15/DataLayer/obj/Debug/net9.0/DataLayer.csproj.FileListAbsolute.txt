@@ -1,0 +1,17 @@
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\bin\Debug\net9.0\DataLayer.deps.json
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\bin\Debug\net9.0\DataLayer.runtimeconfig.json
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\bin\Debug\net9.0\DataLayer.dll
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\bin\Debug\net9.0\DataLayer.pdb
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\bin\Debug\net9.0\BusinessLayer.dll
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\bin\Debug\net9.0\BusinessLayer.pdb
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.csproj.AssemblyReference.cache
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.AssemblyInfoInputs.cache
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.AssemblyInfo.cs
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.csproj.Up2Date
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.dll
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\refint\DataLayer.dll
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.pdb
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\DataLayer.genruntimeconfig.cache
+C:\VsProject\PT2_Ivan_Tashev_11e_15\DataLayer\obj\Debug\net9.0\ref\DataLayer.dll

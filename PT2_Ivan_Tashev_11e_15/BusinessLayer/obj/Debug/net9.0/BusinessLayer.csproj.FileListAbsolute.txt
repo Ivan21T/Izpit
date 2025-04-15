@@ -1,0 +1,14 @@
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\bin\Debug\net9.0\BusinessLayer.deps.json
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\bin\Debug\net9.0\BusinessLayer.runtimeconfig.json
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\bin\Debug\net9.0\BusinessLayer.dll
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\bin\Debug\net9.0\BusinessLayer.pdb
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\BusinessLayer.AssemblyInfo.cs
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\BusinessLayer.dll
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\refint\BusinessLayer.dll
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\BusinessLayer.pdb
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\BusinessLayer.genruntimeconfig.cache
+C:\VsProject\PT2_Ivan_Tashev_11e_15\BusinessLayer\obj\Debug\net9.0\ref\BusinessLayer.dll
